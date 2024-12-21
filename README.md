@@ -11,15 +11,9 @@
 Here are the tools and technologies I'm proficient in:
 
 - **Database Management:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-  ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6F00?style=flat&logo=python&logoColor=white)  
-  ![Aggregation](https://img.shields.io/badge/Aggregation-00A3E0?style=flat&logo=python&logoColor=white)  
-  ![Sub-query/CTE](https://img.shields.io/badge/Sub-query%2FCTE-FFA500?style=flat&logo=python&logoColor=white)  
-  ![Joins](https://img.shields.io/badge/Joins-FF1493?style=flat&logo=python&logoColor=white)  
-  ![Procedures](https://img.shields.io/badge/Procedures-008080?style=flat&logo=python&logoColor=white)  
-  ![SCD](https://img.shields.io/badge/SCD-8A2BE2?style=flat&logo=python&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6F00?style=flat&logo=python&logoColor=white)  ![Aggregation](https://img.shields.io/badge/Aggregation-00A3E0?style=flat&logo=python&logoColor=white)
+  ![Sub-query/CTE](https://img.shields.io/badge/Sub-query%2FCTE-FFA500?style=flat&logo=python&logoColor=white)  ![Joins](https://img.shields.io/badge/Joins-FF1493?style=flat&logo=python&logoColor=white)  ![Procedures](https://img.shields.io/badge/Procedures-008080?style=flat&logo=python&logoColor=white)   ![SCD](https://img.shields.io/badge/SCD-8A2BE2?style=flat&logo=python&logoColor=white)
 
 - **ETL & Pipelines:**  
   ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0E1E25?style=flat&logo=apache-airflow&logoColor=white)  
