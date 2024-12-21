@@ -19,6 +19,6 @@ I'm a **Data Engineer Fresher** with a passion for working with data and buildin
 I’m passionate about designing and optimizing data pipelines, and I am always eager to explore new technologies and methods to improve data workflows. Feel free to check out my repositories for the projects I am currently working on and learning from.
 
 ## 🌍 Let's Connect
-I'm always looking to learn from others, collaborate on exciting data projects, and grow my network in the tech industry. You can reach me at [email@example.com].
+I'm always looking to learn from others, collaborate on exciting data projects, and grow my network in the tech industry. You can reach me at [truongnn3001@gmail.com].
 
 Thank you for visiting my profile, and I look forward to connecting with you! 😊
