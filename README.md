@@ -16,11 +16,7 @@ Here are the tools and technologies I'm proficient in:
   ![Sub-query/CTE](https://img.shields.io/badge/Sub-query%2FCTE-FFA500?style=flat&logo=python&logoColor=white)  ![Joins](https://img.shields.io/badge/Joins-FF1493?style=flat&logo=python&logoColor=white)  ![Procedures](https://img.shields.io/badge/Procedures-008080?style=flat&logo=python&logoColor=white)   ![SCD](https://img.shields.io/badge/SCD-8A2BE2?style=flat&logo=python&logoColor=white)
 
 - **ETL & Pipelines:**  
-  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0E1E25?style=flat&logo=apache-airflow&logoColor=white)  
-  ![SSIS](https://img.shields.io/badge/SSIS-0085CA?style=flat&logo=microsoft-sql-server-integration-services&logoColor=white)  
-  ![PySpark](https://img.shields.io/badge/PySpark-FC7C00?style=flat&logo=apache-spark&logoColor=white)  
-  ![Dask](https://img.shields.io/badge/Dask-5B77C9?style=flat&logo=dask&logoColor=white)  
-  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0E1E25?style=flat&logo=apache-airflow&logoColor=white)  ![SSIS](https://img.shields.io/badge/SSIS-0085CA?style=flat&logo=microsoft-sql-server-integration-services&logoColor=white)  ![PySpark](https://img.shields.io/badge/PySpark-FC7C00?style=flat&logo=apache-spark&logoColor=white)  ![Dask](https://img.shields.io/badge/Dask-5B77C9?style=flat&logo=dask&logoColor=white)  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
 - **Machine Learning:**  
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
