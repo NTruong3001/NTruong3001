@@ -5,6 +5,7 @@ I'm a **Data Engineer Fresher** with a passion for working with data and buildin
 Let's build the future of data together! 🚀💻
 
 ---
+![Data Engineering](https://media2.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/200.webp?cid=790b7611d2t46skb9o73lm7r499miyer67qczeeb3yngjtr8&ep=v1_gifs_search&rid=200.webp&ct=g)  
 
 ## 🚀 **Skills & Technologies**  
 Here are the tools and technologies I'm proficient in:
