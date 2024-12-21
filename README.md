@@ -14,12 +14,12 @@ Here are the tools and technologies I'm proficient in:
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-  ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4F8F3A?style=flat&logo=python&logoColor=white)  
-  ![Aggregation](https://img.shields.io/badge/Aggregation-4F8F3A?style=flat&logo=python&logoColor=white)  
-  ![Sub-query/CTE](https://img.shields.io/badge/Sub-query%2FCTE-4F8F3A?style=flat&logo=python&logoColor=white)  
-  ![Joins](https://img.shields.io/badge/Joins-4F8F3A?style=flat&logo=python&logoColor=white)  
-  ![Procedures](https://img.shields.io/badge/Procedures-4F8F3A?style=flat&logo=python&logoColor=white)  
-  ![SCD](https://img.shields.io/badge/SCD-4F8F3A?style=flat&logo=python&logoColor=white)
+  ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6F00?style=flat&logo=python&logoColor=white)  
+  ![Aggregation](https://img.shields.io/badge/Aggregation-00A3E0?style=flat&logo=python&logoColor=white)  
+  ![Sub-query/CTE](https://img.shields.io/badge/Sub-query%2FCTE-FFA500?style=flat&logo=python&logoColor=white)  
+  ![Joins](https://img.shields.io/badge/Joins-FF1493?style=flat&logo=python&logoColor=white)  
+  ![Procedures](https://img.shields.io/badge/Procedures-008080?style=flat&logo=python&logoColor=white)  
+  ![SCD](https://img.shields.io/badge/SCD-8A2BE2?style=flat&logo=python&logoColor=white)
 
 - **ETL & Pipelines:**  
   ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0E1E25?style=flat&logo=apache-airflow&logoColor=white)  
@@ -31,8 +31,8 @@ Here are the tools and technologies I'm proficient in:
 - **Machine Learning:**  
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-  ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-  ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+  ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF4500?style=flat&logo=pytorch&logoColor=white)  
+  ![CNN](https://img.shields.io/badge/CNN-FF6347?style=flat&logo=tensorflow&logoColor=white)
 
 - **Data Crawling & Scraping:**  
   ![Scrapy](https://img.shields.io/badge/Scrapy-66CCFF?style=flat&logo=scrapy&logoColor=white)  
@@ -44,7 +44,7 @@ Here are the tools and technologies I'm proficient in:
   ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)  
   ![S3](https://img.shields.io/badge/S3-FF9900?style=flat&logo=amazonaws&logoColor=white)  
   ![Athena](https://img.shields.io/badge/Athena-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-  ![Redshift](https://img.shields.io/badge/Redshift-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+  ![Redshift](https://img.shields.io/badge/Redshift-8B0000?style=flat&logo=amazonaws&logoColor=white)  
   ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
 - **Containerization:**  
@@ -58,6 +58,7 @@ Here are the tools and technologies I'm proficient in:
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=microsoft&logoColor=white)  
   ![Linux](https://img.shields.io/badge/Linux-FFD700?style=flat&logo=linux&logoColor=white)  
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
 
 
 ---
