@@ -87,7 +87,7 @@ I'm excited to collaborate on data-driven projects and grow my network in the te
 
 ## 🖼️ **Visuals**  
 ![Data Engineering](https://media1.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.webp?cid=790b7611gkv2k3ankmadydaq7win523dngfqbm9btuj5wouq&ep=v1_gifs_search&rid=giphy.webp&ct=g)  
-Here's a little something that captures my excitement about data engineering! 😄
+It's me when coding! 😄
 
 ---
 
