@@ -49,15 +49,13 @@ Here are some exciting projects I am currently working on:
    - Used Apache Kafka for real-time ingestion and Apache Spark for data processing.  
    - Data stored securely in AWS S3, with SQL querying capabilities via Amazon Athena.  
    - [Link to GitHub](https://github.com/NTruong3001/realtime_streaming_coinmarketcap)  
-   ![Crypto Data]([https://media.giphy.com/media/3oKIPBefYZTe6zKjrW/giphy.gif](https://private-user-images.githubusercontent.com/105489258/395776031-eb7782cb-218a-41e9-a02a-9364ca4cc9f0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3ODY4NjksIm5iZiI6MTczNDc4NjU2OSwicGF0aCI6Ii8xMDU0ODkyNTgvMzk1Nzc2MDMxLWViNzc4MmNiLTIxOGEtNDFlOS1hMDJhLTkzNjRjYTRjYzlmMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMVQxMzA5MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NzdmYTY2OTE3MmY2OWIyMTViN2IxZDVlYmVmNzU5YTY4M2FjNDI0NjlkYjVhMDcwYjNhNGYzMzIyMmM0MTQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.55Xe1aGxF8S7Pacln6rI3oc4s5kbydrWuF0l969tJzs))
+
 
 2. **User Behavior Data Pipeline with Change Data Capture (CDC)** 🏗️  
    - Implemented CDC Type 1 to track and update user behavior data in real-time.  
    - Utilized Apache Spark for ETL processing and transformations.  
    - Containerized the pipeline using Docker Compose for ease of deployment.  
    - [Link to GitHub](https://github.com/NTruong3001/Apply-CDC-for-User-Behavior-Data-Pipeline)  
-   ![User Behavior](https://private-user-images.githubusercontent.com/105489258/395776031-eb7782cb-218a-41e9-a02a-9364ca4cc9f0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3ODc0OTYsIm5iZiI6MTczNDc4NzE5NiwicGF0aCI6Ii8xMDU0ODkyNTgvMzk1Nzc2MDMxLWViNzc4MmNiLTIxOGEtNDFlOS1hMDJhLTkzNjRjYTRjYzlmMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMVQxMzE5NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NmU2ODQyZmNhYTcxMzYzM2Q5MjE1OTI3Mjc1Y2YxODVjYzI3M2FlZTA0YjEzOWQzZDg4NDlhZGU4YTJkYWExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.rqP0tZLXzA57NiqP2cjXP3WErtPgIfsZ9FP85U7nQyA)
-
 ---
 
 ## 🌍 **Let's Connect**  
@@ -79,7 +77,7 @@ I'm excited to collaborate on data-driven projects and grow my network in the te
 ---
 
 ## 🖼️ **Visuals**  
-![Data Engineering](https://media.giphy.com/media/3o7TKM6F4yUGLl7irG/giphy.gif)  
+![Data Engineering](https://media1.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.webp?cid=790b7611gkv2k3ankmadydaq7win523dngfqbm9btuj5wouq&ep=v1_gifs_search&rid=giphy.webp&ct=g)  
 Here's a little something that captures my excitement about data engineering! 😄
 
 ---
