@@ -1,11 +1,11 @@
 # Hi, I'm Nguyen Nhat Truong 👋  
 [![Profile Views](https://komarev.com/ghpvc/?username=truongnn3001&style=flat)](https://github.com/truongnn3001)
-
+![Data Engineering](https://media2.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/200.webp?cid=790b7611d2t46skb9o73lm7r499miyer67qczeeb3yngjtr8&ep=v1_gifs_search&rid=200.webp&ct=g)  
 I'm a **Data Engineer Fresher** with a passion for working with data and building scalable data systems. I'm eager to apply my strong foundation in data management, machine learning, and cloud solutions to solve real-world data challenges and contribute to business growth. As I continue to learn and grow in the field, I'm looking forward to collaborating with experienced professionals and further developing my skills.  
 Let's build the future of data together! 🚀💻
 
 ---
-![Data Engineering](https://media2.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/200.webp?cid=790b7611d2t46skb9o73lm7r499miyer67qczeeb3yngjtr8&ep=v1_gifs_search&rid=200.webp&ct=g)  
+
 
 ## 🚀 **Skills & Technologies**  
 Here are the tools and technologies I'm proficient in:
