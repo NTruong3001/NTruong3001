@@ -19,38 +19,23 @@ Here are the tools and technologies I'm proficient in:
   ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0E1E25?style=flat&logo=apache-airflow&logoColor=white)  ![SSIS](https://img.shields.io/badge/SSIS-0085CA?style=flat&logo=microsoft-sql-server-integration-services&logoColor=white)  ![PySpark](https://img.shields.io/badge/PySpark-FC7C00?style=flat&logo=apache-spark&logoColor=white)  ![Dask](https://img.shields.io/badge/Dask-5B77C9?style=flat&logo=dask&logoColor=white)  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
 - **Machine Learning:**  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-  ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF4500?style=flat&logo=pytorch&logoColor=white)  
-  ![CNN](https://img.shields.io/badge/CNN-FF6347?style=flat&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF4500?style=flat&logo=pytorch&logoColor=white)  ![CNN](https://img.shields.io/badge/CNN-FF6347?style=flat&logo=tensorflow&logoColor=white)
 
 - **Data Crawling & Scraping:**  
-  ![Scrapy](https://img.shields.io/badge/Scrapy-66CCFF?style=flat&logo=scrapy&logoColor=white)  
-  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4F5C51?style=flat&logo=python&logoColor=white)  
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+  ![Scrapy](https://img.shields.io/badge/Scrapy-66CCFF?style=flat&logo=scrapy&logoColor=white)  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4F5C51?style=flat&logo=python&logoColor=white)  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 - **Cloud & Streaming:**  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-  ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)  
-  ![S3](https://img.shields.io/badge/S3-FF9900?style=flat&logo=amazonaws&logoColor=white)  
-  ![Athena](https://img.shields.io/badge/Athena-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-  ![Redshift](https://img.shields.io/badge/Redshift-8B0000?style=flat&logo=amazonaws&logoColor=white)  
-  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)  ![S3](https://img.shields.io/badge/S3-FF9900?style=flat&logo=amazonaws&logoColor=white)  ![Athena](https://img.shields.io/badge/Athena-232F3E?style=flat&logo=amazonaws&logoColor=white)  ![Redshift](https://img.shields.io/badge/Redshift-8B0000?style=flat&logo=amazonaws&logoColor=white)  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
 - **Containerization:**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 - **Data Visualization:**  
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)  
-  ![Stimulsoft](https://img.shields.io/badge/Stimulsoft-16A1D5?style=flat&logo=stimulsoft&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)   ![Stimulsoft](https://img.shields.io/badge/Stimulsoft-16A1D5?style=flat&logo=stimulsoft&logoColor=white)
 
 - **Operating Systems:**  
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=microsoft&logoColor=white)  
-  ![Linux](https://img.shields.io/badge/Linux-FFD700?style=flat&logo=linux&logoColor=white)  
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
-
-
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=microsoft&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FFD700?style=flat&logo=linux&logoColor=white)  
+ 
 ---
 
 ## 🌱 **What I'm Learning**  
